@@ -12,4 +12,4 @@
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?it shows the relationship between ideas and its flow which allows the reader to read selectively,increase readerbility of the of content created and enhancing accesability of your content across all types of audiences. 
 ## 10. What are some best practices for creating effective headings and subheadings?keeping it short and concise,start the heading with key words,keep sub headline descriptive,use action words,use proper capitalization,keep the heading concise and captivating
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?Introduction of the project,intallation instruction to power or to wi-fi,trouble shooting,updates and fixes and frequently asked questions
-## 12. How can you succinctly convey the purpose and key features of a product?Use Bullet and bold points
+## 12. How can you succinctly convey the purpose and key features of a product?Use Bullet and bold points.
